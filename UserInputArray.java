@@ -6,9 +6,11 @@ public class UserInputArray{
 		int size = s.nextInt();
 		int a[] = new int[size];
 		System.out.println("Type the integer elements in separate lines.");
-		for (int j = 0;j<size;j++)
+		for (int j = 0;j<size;j++){
 			a[j] = s.nextInt();
-		for (int i = 0;i<a.length;i++)
+		}
+		for (int i = 0;i<a.length;i++){
 			System.out.print(a[i] + " ");
+		}
 	}
-}		
+}
