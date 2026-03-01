@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class UserInputArray{
+public class UserInputArray{
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		System.out.print("Type the size of the array: ");
@@ -11,5 +11,4 @@ class UserInputArray{
 		for (int i = 0;i<a.length;i++)
 			System.out.print(a[i] + " ");
 	}
-}
-		
+}		
