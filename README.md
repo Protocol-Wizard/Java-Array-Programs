@@ -1,1 +1,2 @@
-This is where I add my Java codes related to Arrays :)
+# Java Array Codes
+This is where I store all my Java codes related to arrays :)
